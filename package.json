@@ -1,0 +1,22 @@
+{
+  "name": "e-control",
+  "version": "1.0.0",
+  "description": "",
+  "main": "App.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nitinmano/E-Control.git"
+  },
+  "author": "NMPro Indolent Velan",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/nitinmano/E-Control/issues"
+  },
+  "homepage": "https://github.com/nitinmano/E-Control#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
