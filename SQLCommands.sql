@@ -11,5 +11,7 @@ CREATE TABLE userAuth
     password  varchar(50) NOT NULL
 );
 
+CREATE TABLE userTransaction
+(
 
-
+);
